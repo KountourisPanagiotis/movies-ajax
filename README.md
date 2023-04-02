@@ -1,11 +1,10 @@
 # movies-ajax
-An AUEB  Web Project. Chapter 18. Added value using OMDb API with search and preview of movies data (ajax)
 
-## Athens Univercity of Economics and Business (AUEB)
-Web - Chapter 18. AJAX (Asynchronous JavaScript and XML)
+## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+A [Coding Factory](https://codingfactory.aueb.gr/) - [AUEB](https://aueb.gr/) Web Project. Chapter 18. AJAX (Asynchronous JavaScript and XML)
 
 ## Project info
-- Making use of the [OMDb API](https://www.omdbapi.com/) Open Movie Database to add value by searching and previewing all info about movies. Posters , Rating , Synopsis etc
+- Making use of the [OMDb API](https://www.omdbapi.com/) Open Movie Database to add value by searching and previewing all info about movies. Posters , Rating , Synopsis etc.
 - AJAX (Asynchronous JavaScript and XML)
 - OpenAPI RESTfull Web Services
 - Web Based App
