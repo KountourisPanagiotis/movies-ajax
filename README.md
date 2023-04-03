@@ -1,6 +1,6 @@
 # movies-ajax
 
-## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Web Project. Chapter 18. AJAX (Asynchronous JavaScript and XML)
 
 ## Project info
